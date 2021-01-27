@@ -1,2 +1,2 @@
-# ztm-image-gallery
+#image-gallery
 Image Gallery with CSS
